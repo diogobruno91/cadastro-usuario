@@ -1,2 +1,2 @@
 # cadastro-usuario
-casatro de usuario utilizando node express e reac
+casatro de usuario utilizando node express e react
